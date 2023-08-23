@@ -1,3 +1,5 @@
+#Project by Nachiket Karve and Kaustav Kashyap Das, 2019
+
 import numpy as np
 import matplotlib.pyplot as plt
 
